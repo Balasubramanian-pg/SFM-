@@ -1,0 +1,5 @@
+{
+  "name": "Strategic Executive Dashboard",
+  "description": "A comprehensive 4-page Power BI style dashboard for tracking Billing, Production, Network Health, and Field Activities with source lineage.",
+  "requestFramePermissions": []
+}
